@@ -1,0 +1,6 @@
+framework module Pods_CYTest_Tests {
+  umbrella header "Pods-CYTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

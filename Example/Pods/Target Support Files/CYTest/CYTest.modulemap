@@ -1,0 +1,6 @@
+framework module CYTest {
+  umbrella header "CYTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

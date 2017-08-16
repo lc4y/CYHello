@@ -1,0 +1,16 @@
+PODS:
+  - CYTest (0.1.0)
+
+DEPENDENCIES:
+  - CYTest (from `../`)
+
+EXTERNAL SOURCES:
+  CYTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CYTest: 595ff89df4a58e8aca537e76f9395a1593f1cd1a
+
+PODFILE CHECKSUM: f4ed9ead60443eb056ce6758778f876f4d8bb0bd
+
+COCOAPODS: 1.2.1
