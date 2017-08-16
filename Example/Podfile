@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CYTest_Example' do
+  pod 'CYTest', :path => '../'
+
+  target 'CYTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
